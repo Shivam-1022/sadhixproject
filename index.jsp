@@ -5,6 +5,6 @@
 </head>
 <body>
     <h1>Hello from JSP</h1>
-    <p>This is a test JSP page for shivam worldclasss.</p>
+    <p>This is a test JSP page for shivam worldclass.</p>
 </body>
 </html>
